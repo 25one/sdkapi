@@ -1,0 +1,13 @@
+{
+    "name":"bonusapi/sdkapi",
+    "version":"1.0.0",
+    "require":{
+        "php":">=5.3.0",
+        "guzzle/guzzle": "dev-master"
+    },
+    "autoload":{
+        "psr-0":{
+            "SdkBonusApi":""
+        }
+    }
+}
