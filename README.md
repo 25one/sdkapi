@@ -1,6 +1,6 @@
-SdkBonusApi - sdk-class for loyalty_api_v106 from funidst.org
+<h3>SdkBonusApi - sdk-class for loyalty_api_v106 from funidst.org</h3>
 
-1.Installation.
+<b>1.Installation.</b>
 
 1.1. composer.json file:
 
@@ -16,7 +16,7 @@ SdkBonusApi - sdk-class for loyalty_api_v106 from funidst.org
 
 1.2. composer install
 
-2.Basic usage.
+<b>2.Basic usage.</b>
 
 require_once 'vendor/autoload.php';
 
