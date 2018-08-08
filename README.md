@@ -4,14 +4,13 @@
 
 1.1. composer.json file:
 
-{
-    "require": {
-        "php":">=5.3.0",
-        "bonusapi/sdkapi": "dev-master"
-    },
-    "prefer-stable": true,
-    "minimum-stability": "dev"
-
+{<br>
+    "require": {<br>
+        "php":">=5.3.0",<br>
+        "bonusapi/sdkapi": "dev-master"<br>
+    },<br>
+    "prefer-stable": true,<br>
+    "minimum-stability": "dev"<br>
 }
 
 1.2. composer install
